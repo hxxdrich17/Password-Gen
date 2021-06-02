@@ -1,7 +1,7 @@
 # Password-Generator
 GUI Password Generator based on C++ &amp; .NET Core
 
-![image](https://user-images.githubusercontent.com/74147412/115875176-ff758780-a455-11eb-9586-5fd97bc9a0b5.png)
+![image](https://user-images.githubusercontent.com/74147412/120555451-29827800-c40c-11eb-9c83-5e2c9154e2d7.png)
 
 
 
